@@ -1,16 +1,26 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Charles</h3>
 
-<!--
-**CharCG/charcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.charcg.is-a.dev/">Website</a> •
+  <a href="https://www.instagram.com/chrlescg/">Instagram</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 15 year old high school student at a trilingual school in North Jakarta, Indonesia. I am an hobbyist and enthusiastic person in learning various of new things, even more in new environments.
+
+#### 🌟 Facts
+- 🌱 I’m currently learning [React](https://www.reactjs.org/), as web development.
+
+
+## 🛠 Languages and Tools
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img color="white" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg" width="50" height="50"></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50"></a>
+</p>
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=charcg&style=plastic&label=Views"><img>
+  <img src="https://badges.pufler.dev/visits/charcg/charcg?color=black&logo=github" />
+</p>
