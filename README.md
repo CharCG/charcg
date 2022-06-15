@@ -7,7 +7,7 @@
 
 ---
 
-I am a 15 year old high school student at a trilingual school in North Jakarta, Indonesia. I am an hobbyist and enthusiastic person in learning various of new things, even more in new environments.
+I am a 15 years old high school student at a trilingual school in North Jakarta, Indonesia. I am an hobbyist and enthusiastic person in learning various of new things, even more in new environments.
 
 #### 🌟 Facts
 - 🌱 I’m currently learning [React](https://www.reactjs.org/), as web development.
@@ -15,7 +15,7 @@ I am a 15 year old high school student at a trilingual school in North Jakarta, 
 
 ## 🛠 Languages and Tools
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img color="white" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg" width="50" height="50"></a> 
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img color="white" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js-square.svg" width="50" height="50"></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50"></a>
 </p>
 
