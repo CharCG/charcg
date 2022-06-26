@@ -7,7 +7,7 @@
 
 ---
 
-I am a 15 years old high school student at a trilingual school in North Jakarta, Indonesia. I am an hobbyist and enthusiastic person in learning various of new things, even more in new environments.
+I am a 15 years old high school student at a trilingual school in North Jakarta, Indonesia. Hobbyist and enthusiastic person in learning various of new things, even more in new environments.
 
 #### 🌟 Facts
 - 🌱 I’m currently learning [React](https://www.reactjs.org/), as web development.
